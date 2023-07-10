@@ -1,0 +1,127 @@
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 600px;
+  margin: auto;
+  margin-top: 80px;
+  margin-bottom: 61px;
+  /* border: 1px solid black; */
+}
+
+.register-form {
+  border: 1px solid gray;
+  padding: 25px;
+  background: #126d42;
+  color: white;
+  width: 65%;
+  border-radius: 10px;
+  height: 410px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.m-2 {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn {
+  font-size: 16px;
+  margin-left: 20px;
+  width: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.m-2:hover {
+  color: aliceblue;
+  text-decoration: underline;
+}
+
+.btn:hover {
+  background: #085a31;
+  border: 1px solid black;
+}
+
+.ant-form-item .ant-form-item-label > label {
+  color: rgba(245, 243, 243, 0.88);
+  font-size: 18px;
+}
+
+/* login */
+.form-container1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 320px;
+  margin: auto;
+  margin-top: 90px;
+  margin-bottom: 80px;
+  border: 2px solid gray;
+  background: #126d42;
+  border-radius: 10px;
+}
+
+.register-form1 {
+  padding: 25px;
+  color: white;
+  width: 65%;
+  border-radius: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.m-2 {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn {
+  font-size: 16px;
+  margin-left: 15px;
+  width: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.m-2:hover {
+  color: aliceblue;
+  text-decoration: underline;
+}
+
+.btn:hover {
+  background: #085a31;
+  border: 1px solid black;
+}
+
+.ant-form-item .ant-form-item-label > label {
+  color: rgba(245, 243, 243, 0.88);
+  font-size: 18px;
+}
+
+/* footer */
+.btn2:hover {
+  background: #606462;
+  border: 1px solid rgb(49, 48, 48);
+}
+.text-center1 {
+  margin-bottom: 0px;
+  margin-top: 141px;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
+.nav-link {
+  font-size: 22px;
+  padding-right: 10px;
+}
+.navbar-nav {
+  /* margin: auto; */
+  display: flex;
+  position: absolute;
+  right: 20px;
+}
+.navbar-nav a {
+  margin-right: 15px;
+}
+.navbar-nav a:hover {
+  background: rgb(58, 56, 56);
+  border-radius: 20px;
+}
